@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 ### My GitHub Stats
-[![Huanying04's github stats](https://github-readme-stats.vercel.app/api?username=Huanying04&show_icons=true&custom_title=Huanying04%27s%20Github%20Stats)](https://github.com/Huanying04)
+[![Huanying04's github stats](https://github-readme-stats.vercel.app/api?username=Huanying04&show_icons=true)](https://github.com/Huanying04)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huanying04&layout=compact)](https://github.com/Huanying04)
